@@ -50,9 +50,3 @@
 * Nitrile gloves
 * liquid tubes for measuring
 * Bacterial transformation buffer
-
-# Notes on equipment from other labs
-
-https://wiki.london.hackspace.org.uk/view/Starting_your_own_biolab
-
-https://makezine.com/2017/04/11/how-to-set-up-your-own-lab/
