@@ -1,6 +1,12 @@
 # Equpipment
 
+* Personal protective equipment
+  * Coats
+  * Glasses
+  * Gloves
 * Various microscopes
+* Electrophoresis tank and power supply
+  * <img src="https://www.yourgenome.org/sites/default/files/illustrations/diagram/gel_electrophoresis_dna_tank_yourgenome.png" width="250px"/>
 * Centrifuge
 * Pipetes
 * HEPA filter workbench (Sterile manipulation box)
