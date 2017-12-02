@@ -10,6 +10,9 @@
 * Electrophoresis tank and power supply
   * <img src="https://www.yourgenome.org/sites/default/files/illustrations/diagram/gel_electrophoresis_dna_tank_yourgenome.png" width="250px"/>
 * Centrifuge
+* Autoclave
+  * For sterilizing labware and bio material
+  * User pressure cooker? 🤠
 * Pipettes
   * 10, 20, 50, 100ul volume
 * HEPA filter workbench (Sterile manipulation box)
