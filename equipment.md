@@ -5,10 +5,13 @@
   * Glasses
   * Gloves
 * Various microscopes
+* Visualiser
+  * for glowing at visible wavelength
 * Electrophoresis tank and power supply
   * <img src="https://www.yourgenome.org/sites/default/files/illustrations/diagram/gel_electrophoresis_dna_tank_yourgenome.png" width="250px"/>
 * Centrifuge
-* Pipetes
+* Pipettes
+  * 10, 20, 50, 100ul volume
 * HEPA filter workbench (Sterile manipulation box)
   * <img src="https://i.pinimg.com/736x/8c/f8/f8/8cf8f8939172407fe87f6e13ddbec713--fume-hood-hepa-filter.jpg" width="250px"/>
 * Light source (for growing)
