@@ -12,7 +12,7 @@
 * Centrifuge
 * Autoclave
   * For sterilizing labware and bio material
-  * User pressure cooker? 🤠
+  * Use pressure cooker? 🤠
 * Pipettes
   * 10, 20, 50, 100ul volume
 * HEPA filter workbench (Sterile manipulation box)
