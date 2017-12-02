@@ -1,4 +1,4 @@
-# Equpipment
+# Equipment
 
 * Petri dishes
   * Between 80 and 140mm
