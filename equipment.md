@@ -43,6 +43,8 @@
   * 4C
   * -20C
   * -80C freezer
+* Consumables
+* Molecular biology enzymes and reagents
 
 # Notes on equipment from other labs
 
