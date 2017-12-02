@@ -33,6 +33,7 @@
 * Autoclave
   * Test
   * Autoclave tape
+  * Microwave
   * Pressure cooker?
   * For sterilizing labware and bio material
 * Incubator
