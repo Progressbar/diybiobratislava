@@ -20,6 +20,7 @@
 * Agarose
 * Pipettes
   * 10, 20, 50, 100ul volume
+  * Adjustable pipette (1ul increments)
   * Pipette tips
 * HEPA filter workbench
   * https://wiki.london.hackspace.org.uk/view/Project:Flow_Hood
@@ -45,6 +46,10 @@
   * -80C freezer
 * Consumables
 * Molecular biology enzymes and reagents
+* Non-pathogenic ecoli bactieria
+* Nitrile gloves
+* liquid tubes for measuring
+* Bacterial transformation buffer
 
 # Notes on equipment from other labs
 
