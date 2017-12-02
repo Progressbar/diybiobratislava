@@ -37,6 +37,8 @@
   * Pressure cooker?
   * For sterilizing labware and bio material
 * Incubator
+  * Old egg incubator?
+  * Pet heating pads with thermostat
 * Refigerator freezer
 
 # Notes on equipment from other labs
