@@ -40,6 +40,9 @@
   * Old egg incubator?
   * Pet heating pads with thermostat
 * Refigerator freezer
+  * 4C
+  * -20C
+  * -80C freezer
 
 # Notes on equipment from other labs
 
