@@ -10,9 +10,6 @@
 * Electrophoresis tank and power supply
   * <img src="https://www.yourgenome.org/sites/default/files/illustrations/diagram/gel_electrophoresis_dna_tank_yourgenome.png" width="250px"/>
 * Centrifuge
-* Autoclave
-  * For sterilizing labware and bio material
-  * Use pressure cooker? 🤠
 * Pipettes
   * 10, 20, 50, 100ul volume
 * HEPA filter workbench (Sterile manipulation box)
@@ -22,6 +19,10 @@
   * http://openpcr.org
   * https://en.wikipedia.org/wiki/Thermal_cycler
   * http://www.instructables.com/id/Arduino-PCR-thermal-cycler-for-under-85/
+* Autoclave
+  * Test
+  * Use pressure cooker
+  * For sterilizing labware and bio material
 
 # Notes on equipment from other labs
 
