@@ -1,1 +1,3 @@
-Hosted on netlify
+https://diybiobratislava.netlify.com
+
+https://fb.com/groups/diybiobratislava/
