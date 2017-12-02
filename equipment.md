@@ -21,8 +21,9 @@
   * http://www.instructables.com/id/Arduino-PCR-thermal-cycler-for-under-85/
 * Autoclave
   * Test
-  * Use pressure cooker
+  * Pressure cooker?
   * For sterilizing labware and bio material
+* Incubator
 
 # Notes on equipment from other labs
 
