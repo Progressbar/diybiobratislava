@@ -1,5 +1,6 @@
 # Equipment
 
+* Spectrometer
 * Petri dishes
   * Between 80 and 140mm
 * Glasswear
