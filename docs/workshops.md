@@ -1,17 +1,17 @@
 # bio/av
 
-## biodisplay
+### biodisplay
 
-## biosound
+### biosound
 
-## bioart
+### bioart
 
 # plants
 
-# glowing plants
+### glowing plants
 
 Photobacterium
 
-# plant communication
+### plant communication
 
 tedx talk
