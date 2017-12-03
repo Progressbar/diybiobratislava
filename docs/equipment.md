@@ -1,5 +1,6 @@
 # Equipment
 
+* co2 supply
 * Spectrometer
 * Petri dishes
   * Between 80 and 140mm
@@ -24,6 +25,7 @@
   * Adjustable pipette (1ul increments)
   * Pipette tips
 * HEPA filter workbench
+  * Laminar hood
   * https://wiki.london.hackspace.org.uk/view/Project:Flow_Hood
   * <img src="https://i.pinimg.com/736x/8c/f8/f8/8cf8f8939172407fe87f6e13ddbec713--fume-hood-hepa-filter.jpg" width="250px"/>
 * Sterile manipulation box
