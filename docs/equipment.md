@@ -1,4 +1,4 @@
-# Needed equipment
+# Needed equipment (not yet ordered by importance)
 
 * co2 supply
 * Spectrometer
