@@ -14,7 +14,7 @@
   * Glasses
   * Gloves
 * Various microscopes
-  * ✓ zaobstaral som Levenhuk D740T trinokulárny
+  * ✓ zaobstaral som Levenhuk D740T trinokulárny
 * Visualiser
   * for glowing at visible wavelength
 * Electrophoresis tank and power supply
