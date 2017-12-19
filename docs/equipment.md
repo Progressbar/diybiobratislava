@@ -9,6 +9,7 @@
   * Closable jars
 * Chemicals
   * 70% ethanol solution, disinfectant
+* Vaha
 * Personal protective equipment
   * Coats
   * Glasses
