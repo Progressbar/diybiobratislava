@@ -1,3 +1,5 @@
-https://diybiobratislava.netlify.com
+# DIYbio Bratislava
 
 https://fb.com/groups/diybiobratislava/
+
+https://progressbar.github.io/diybiobratislava
