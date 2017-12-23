@@ -1,4 +1,6 @@
-# bio/av
+# Workshops
+
+## bio/av
 
 ### biodisplay
 
@@ -6,9 +8,9 @@
 
 ### bioart
 
-# bioelectrochemistry
+## bioelectrochemistry
 
-# plants
+## plants
 
 ### glowing plants
 
@@ -18,7 +20,7 @@ Photobacterium
 
 tedx talk
 
-# structures
+## structures
 
 ### grown weapons?
 

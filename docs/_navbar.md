@@ -1,3 +1,0 @@
-- Equipment
-  - [Looking for](needed-equipment.md)
-  - [What we already have](existing-equipment.md)

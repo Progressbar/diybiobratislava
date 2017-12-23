@@ -1,4 +1,15 @@
-# Needed equipment (not yet ordered by importance)
+# Existing Equipment {docsify-ignore-all}
+
+- [x] Microscope Levenhuk D740T trinocular [Link](https://www.levenhuk.com/catalogue/microscopes/levenhuk-d740t-5-1mpix/)
+  - [x] Microscope slides (~76x26x1mm) (100pcs) [Link (code 5362)](https://www.medihum.sk/113-diagnosticke-pristroje/75-laboratorne-pristroje-pristroje-na-analyzu/laboratorne-pomocky/podlozne-a-krycie-skla/3029-superfrost-extra-biele)
+  - [x] Slides top (~22x22mm) (200pcs) [Link](https://www.medihum.sk/113-diagnosticke-pristroje/75-laboratorne-pristroje-pristroje-na-analyzu/laboratorne-pomocky/podlozne-a-krycie-skla/658-22-x-22-mm?search=krycie%20sklo)
+
+# Nice laboratory equip shops
+
+https://www.medihum.sk
+http://www.fisherww.sk
+
+# Needed Equipment {docsify-ignore-all}
 
 * co2 supply
 * Spectrometer
@@ -15,7 +26,7 @@
   * Glasses
   * Gloves
 * Various microscopes
-  * ✓ zaobstaral som Levenhuk D740T trinokulárny
+  *
 * Visualiser
   * for glowing at visible wavelength
 * Electrophoresis tank and power supply

@@ -1,9 +1,9 @@
 # DIYbio Bratislava
 
-For more visit
+For more information, please visit
 
 https://fb.com/groups/diybiobratislava/
 
 https://progressbar.github.io/diybiobratislava
 
-[Docs website](docs/README.md)
+Create with https://docsify.js.org/#/

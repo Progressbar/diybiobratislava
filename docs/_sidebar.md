@@ -1,0 +1,2 @@
+- [Home](/)
+- [Equipment](equipment.md)
