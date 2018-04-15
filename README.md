@@ -1,4 +1,8 @@
-# DIYbio Bratislava
+# Attention
+
+Moving everything into Github issues
+
+## DIYbio Bratislava
 
 For more information, please visit
 
